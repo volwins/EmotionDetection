@@ -1,6 +1,6 @@
 """
 Model Architecture — ImprovedHybridProjectionFusionLLM
-Exact copy from Kaggle validation notebook. DO NOT MODIFY.
+
 """
 
 import os
