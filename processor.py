@@ -1,6 +1,6 @@
 """
 Preprocessing & Live Feature Extraction
-Matches the Kaggle notebook pipeline exactly:
+Matches the  pipeline exactly:
 - Audio: MelSpectrogram at 48kHz, 3s, n_fft=2048, hop=512, 128 mels
 - Video: 16 uniform frames, 112x112, /255.0 only (NO Kinetics norm)
 - Blendshapes: MediaPipe FaceLandmarker → 52 × 4 stats → keyword‑filter → sorted → 204
