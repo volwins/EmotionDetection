@@ -76,7 +76,7 @@ The most accurate endpoint. Runs overlapping temporal windows across the full me
 
 ## 🎯 Emotion Classes
 
-`angry` · `disgust` · `fear` · `happy` · `neutral` · `sad` · `surprise` · `contempt`
+`angry` · `disgust` · `fear` · `happy` · `neutral` · `sad` · `surprise` · `calm`
 
 ## ⚙️ Configuration
 
